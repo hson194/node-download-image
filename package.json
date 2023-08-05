@@ -1,0 +1,14 @@
+{
+  "name": "download-image",
+  "version": "1.0.0",
+  "description": "NodeJs download images via package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hson194",
+  "license": "ISC",
+  "dependencies": {
+    "node-base64-image": "^2.0.5"
+  }
+}
